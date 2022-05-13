@@ -143,6 +143,11 @@ body {
   align-items: center;
 }
 
+.forgot-password {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
 .form .submit {
   width: 269px;
   height: 59px;
