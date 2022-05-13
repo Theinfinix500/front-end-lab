@@ -164,4 +164,10 @@ body {
   font-weight: 700;
   font-size: 18px;
   margin-top: 3rem;
+  cursor: pointer;
+  transform: translateY(0);
+}
+
+.form .submit:active {
+  transform: translateY(2px);
 }
