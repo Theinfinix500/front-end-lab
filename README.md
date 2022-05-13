@@ -5,4 +5,4 @@
 [screenshot]: assets/images/figma-screenshot.png
 
 ### Working demo
-http://front-end-lab.djebara-abdelali.com/
+https://front-end-lab.djebara-abdelali.com/
